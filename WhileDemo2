@@ -1,0 +1,20 @@
+/*
+ * reverse order of numbers 
+ * done on 17/3/22
+ */
+package basics;
+
+public class WhileDemo2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i=10;
+		while(i>=1)
+		{
+			System.out.print(" "+i);
+			i--;
+		}
+
+	}
+
+}
