@@ -1,0 +1,7 @@
+// java program  to print hello world  on 16/3/2022
+public class HelloWorld {
+	public static void main(String[] args) {
+		System.out.println("Hello welcome to java world");
+	}
+
+}
